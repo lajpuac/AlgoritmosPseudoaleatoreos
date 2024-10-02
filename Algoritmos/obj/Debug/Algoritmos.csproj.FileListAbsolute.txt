@@ -1,0 +1,13 @@
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form1.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormCuadradosMedios.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormMultiConstante.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormProductosMedios.resources
