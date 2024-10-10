@@ -52,6 +52,24 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormCongruencial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCongruencial.Designer.cs">
+      <DependentUpon>FormCongruencial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCongruencialMixto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCongruencialMixto.Designer.cs">
+      <DependentUpon>FormCongruencialMixto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCongruencialMulcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCongruencialMulcs.Designer.cs">
+      <DependentUpon>FormCongruencialMulcs.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormCuadradosMedios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +92,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCongruencial.resx">
+      <DependentUpon>FormCongruencial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCongruencialMixto.resx">
+      <DependentUpon>FormCongruencialMixto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCongruencialMulcs.resx">
+      <DependentUpon>FormCongruencialMulcs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormCuadradosMedios.resx">
       <DependentUpon>FormCuadradosMedios.cs</DependentUpon>

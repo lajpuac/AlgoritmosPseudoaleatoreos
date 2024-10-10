@@ -34,5 +34,23 @@ namespace Algoritmos
             FormMultiConstante formMultiplicador = new FormMultiConstante();
             formMultiplicador.Show();
         }
+
+        private void btnCongruencial_Click(object sender, EventArgs e)
+        {
+            FormCongruencial formCongruencial = new FormCongruencial();
+            formCongruencial.Show();
+        }
+
+        private void btnCongruencialM_Click(object sender, EventArgs e)
+        {
+            FormCongruencialMixto formCongruencialMixto = new FormCongruencialMixto();
+            formCongruencialMixto.Show();
+        }
+
+        private void btnCongruencialMul_Click(object sender, EventArgs e)
+        {
+            FormCongruencialMulcs formCongruencialMul = new FormCongruencialMulcs();
+            formCongruencialMul.Show();
+        }
     }
 }

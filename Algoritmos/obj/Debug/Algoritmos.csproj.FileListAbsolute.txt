@@ -11,3 +11,6 @@ C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
 C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormCuadradosMedios.resources
 C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormMultiConstante.resources
 C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormProductosMedios.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormCongruencial.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormCongruencialMixto.resources
+C:\Users\FQ202404\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormCongruencialMulcs.resources
